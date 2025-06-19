@@ -53,7 +53,7 @@ A modern, feature-rich Next.js starter template with TypeScript, built with best
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tariqul420/next-ts-starter.git
+git clone https://github.com/Redwanul-Hassan-Labib/Admin-Dashboard-with-Next-Js
 cd next-ts-starter
 ```
 
