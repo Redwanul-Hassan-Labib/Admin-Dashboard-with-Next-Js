@@ -1,6 +1,6 @@
 # Next.js TypeScript Starter Template
 
-![Next.js TypeScript Starter](https://raw.githubusercontent.com/tariqul420/next-ts-starter/main/public/nextjs-banner.webp)
+![Next.js TypeScript Starter](https://github.com/Redwanul-Hassan-Labib/Admin-Dashboard-with-Next-Js)
 
 A modern, feature-rich Next.js starter template with TypeScript, built with best practices and developer experience in mind. This template provides a solid foundation for building scalable web applications with a focus on performance, security, and developer experience.
 
@@ -265,7 +265,7 @@ pnpm start
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tariqul420/next-ts-starter/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Redwanul-Hassan-Labib/Admin-Dashboard-with-Next-Js/issues).
 
 ### How to Contribute
 
@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **Tariqul Islam** - [GitHub](https://github.com/tariqul420)
+- **Redwanul Hassan Labib** - [GitHub](https://github.com/Redwanul-Hassan-Labib/Admin-Dashboard-with-Next-Js)
 
 ## 🙏 Acknowledgments
 
@@ -313,4 +313,4 @@ Stay updated with the latest changes by:
 
 ---
 
-Made with ❤️ by Tariqul Islam
+Made with ❤️ by Redwanul Hassan Labib
