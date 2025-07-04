@@ -275,10 +275,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch
 5. Open a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Author
 
 - **Redwanul Hassan Labib** - [GitHub](https://github.com/Redwanul-Hassan-Labib/Admin-Dashboard-with-Next-Js)
